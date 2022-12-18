@@ -1,4 +1,4 @@
-# cadeias-de-markov
+# Cadeias de Markov
 
 ## Introdução às cadeias de Markov com implementações em python.
 
